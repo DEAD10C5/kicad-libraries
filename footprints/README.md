@@ -1,4 +1,4 @@
 # Footprints
 
-* These are the `*.mod` and `*.kicad_mod` files used on the PCB.
-* Libraries have the `*.pretty` extension.
+* These are the footrpint libraries used on the PCB.
+* The files have the `*.pretty` extension.
