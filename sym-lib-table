@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "dead10c5")(type "KiCad")(uri "${KIPRJMOD}/libraries/dead10c5.kicad_sym")(options "")(descr ""))
+  (lib (name "dead")(type "KiCad")(uri "${KIPRJMOD}/libraries/dead.kicad_sym")(options "")(descr ""))
+)
